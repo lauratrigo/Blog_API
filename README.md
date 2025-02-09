@@ -1,12 +1,12 @@
-# Blog API 📝
+# 📝 Blog API 
 
 Esse é um projeto de **API de Blog** que desenvolvi para fins de estudo. O objetivo principal foi criar uma API simples e funcional utilizando **Fastify** e **Node.js**, permitindo operações de CRUD (criar, ler, atualizar e excluir) para posts de um blog, além de possibilitar comentários e curtidas.
 
 ## 🛠 Tecnologias Usadas 
 
-- Node.js
-- Fastify
-- JavaScript
+- **Node.js**
+- **Fastify**
+- **JavaScript**
 
 ![Node.js Badge](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ![Fastify Badge](https://img.shields.io/badge/Fastify-00C4A7?logo=fastify&logoColor=white)
