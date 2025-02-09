@@ -2,7 +2,7 @@
 
 Esse é um projeto de **API de Blog** que desenvolvi para fins de estudo. O objetivo principal foi criar uma API simples e funcional utilizando **Fastify** e **Node.js**, permitindo operações de CRUD (criar, ler, atualizar e excluir) para posts de um blog, além de possibilitar comentários e curtidas.
 
-## 🚀 Tecnologias Usadas
+## 🛠 Tecnologias Usadas 
 
 - Node.js
 - Fastify
@@ -16,7 +16,7 @@ Esse é um projeto de **API de Blog** que desenvolvi para fins de estudo. O obje
 
 O objetivo deste projeto é implementar uma API RESTful simples que permita a criação e gerenciamento de posts, além de possibilitar que os usuários possam comentar, curtir e excluir posts, com um sistema básico de autenticação.
 
-## 🛠 Funcionalidades
+## 🚀 Funcionalidades 
 
 - **Listar posts**: Exibe todos os posts criados.
 - **Criar post**: Cria um novo post informando o nome do usuário, o título e o conteúdo.
@@ -137,7 +137,6 @@ blog-api/
 ├── package.json              # Dependências e scripts
 └── package-lock.json         # Lock de versões
 ```
-
 
 ## 🤝 Agradecimentos
 
